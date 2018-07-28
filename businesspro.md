@@ -4,7 +4,7 @@ Project code name business :).
 
 
 # architecture:
-- Will be add soon
+- Will be adding soon
 
 
 
