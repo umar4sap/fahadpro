@@ -17,7 +17,7 @@ Project code name business :).
 - `Listing
 - Could be more 
 
-## types of Users
+## Types of Users
 - Public User
 - Registered public User
 - vendor User
@@ -42,7 +42,7 @@ Project code name business :).
 - should be able to see detail view of business
 -  He can order/booking things in futher releases[Next release]
 
-## vendor
+## Vendor
 
 - on-boarding Vendors[signup process]
 
