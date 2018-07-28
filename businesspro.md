@@ -33,6 +33,7 @@ Project code name business :).
 
 ## As public user
 - Able to see  all the business near by and filter operations
+- should be able to see detail view of abusiness
 - Q.is it mandatory to signup in order to contact to business 
 - should be able to signup with user role 
 
