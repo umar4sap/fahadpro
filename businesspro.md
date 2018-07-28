@@ -3,13 +3,13 @@ Project code name business :).
 
 
 
-# archtiure:
-
+# architecture:
+- Will be add soon
 
 
 
 # API documentation 
-- will add this once confirm on current architechture
+- will add this once confirm on current architecture
 
 # Description:
 
