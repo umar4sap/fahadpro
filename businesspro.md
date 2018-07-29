@@ -4,9 +4,12 @@ Project code name business :).
 
 
 # architecture:
-- Will be adding soon
 
+## Design 1 High level services flow  and integration 
+![alt text](https://github.com/umar4sap/fahadpro/blob/master/design2.png)
 
+## Design 2 Onborading of users through signup and login service 
+![alt text](https://github.com/umar4sap/fahadpro/blob/master/design1.png)
 
 # API documentation 
 - will add this once confirm on current architecture
