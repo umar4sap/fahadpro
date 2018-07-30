@@ -17,7 +17,7 @@ Project code name business :).
 # Description:
 
 ## Signup process:
- Signup form -> verify through email ->verified eligible for login
+ Signup form [/post signup service integrated with third part user managment]-> verify through email ->verified eligible for login
  
 ## login process:
 Login with id/pass -> authication -> Ui recievces jwt token which could have information about user/vendor with roles
